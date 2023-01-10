@@ -1,3 +1,5 @@
 dev-data/
 
 config.env
+
+.cache/
