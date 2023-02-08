@@ -3,3 +3,5 @@ dev-data/
 config.env
 
 .cache/
+
+node_modules/
